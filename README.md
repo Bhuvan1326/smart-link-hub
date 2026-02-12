@@ -1,4 +1,4 @@
-# Smart Link Hub ✨
+# Smart Link Hub 
 
 Smart Link Hub is a modern **Link-in-Bio / Link Hub Builder** that lets users create customizable hubs, manage links, apply smart rules, and track performance with analytics.
 
@@ -34,24 +34,6 @@ Build dynamic link pages that adapt based on **time, device, and custom conditio
 ##  Live Deployment
 - **Vercel App:** https://smart-link-hub-nine.vercel.app
 - **Public Hub Example:** https://smart-link-2zzdrka2l-bhuvan-patils-projects-2aca3b63.vercel.app/dashboard/hubs/806826b4-91ce-4165-b86e-fdfa837fd129
-
-
-## Screenshots
-
-### Landing Page
-<img src="https://github.com/user-attachments/assets/7a7adecb-68d4-46bf-8a2a-0509eafabd7e" width="900" />
-
-### Hub Dashboard
-<img src="https://github.com/user-attachments/assets/d0295312-97b4-4d62-8a42-5efba79e461d" width="900" />
-
-### Public Hub Page
-<img src="https://github.com/user-attachments/assets/f5e4d4db-4a15-4e8e-9928-d82903966bbf" width="900" />
-
-## 🎥 Demo Video
-<a href="https://github.com/user-attachments/assets/690112f6-5d38-40ec-b55c-bdb0bc6f1f65">
-  <img src="https://github.com/user-attachments/assets/7a7adecb-68d4-46bf-8a2a-0509eafabd7e" width="900" />
-</a>
-
 
 ## 📂 Project Structure
 ```txt
